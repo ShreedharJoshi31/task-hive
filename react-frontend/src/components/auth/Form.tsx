@@ -32,7 +32,7 @@ function Form(props: Props) {
       toast(
         type === "LOGIN" ? "You have logged in!" : "Your account is created!"
       );
-      window.location.replace("http://localhost:5173/project"); //with refresh
+      window.location.replace("https://task-hive-nine.vercel.app/project"); //with refresh
     } catch (error) {
       setError(((error as AxiosError).response?.data as APIERROR).message);
     }
