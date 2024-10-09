@@ -1,4 +1,4 @@
-# jira-clone
+# task-hive
 
 ![jira-clone webapp demo](./jira-hq.gif)
 
@@ -6,7 +6,7 @@
 
 ## What is this ?
 
-This is a minimalist replica of a issue-tracking software called [Jira](https://www.atlassian.com/software/jira).
+Task Hive is a robust issue-tracking software, designed to streamline project management, enhance team collaboration, and enable real-time progress tracking for projects.
 
 <br/>
 
